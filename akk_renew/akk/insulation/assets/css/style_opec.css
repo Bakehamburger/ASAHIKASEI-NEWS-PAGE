@@ -3,6 +3,13 @@
 /*------------------------------
  123_「第一回フードテックジャパン」出展のご案内
 ------------------------------*/
+:root{
+   --font-blue: #0095FF; 
+}
+
+.text-font-blue{
+    color: var(--font-blue);
+}
 
 @media screen and (min-width: 992px) {}
 
